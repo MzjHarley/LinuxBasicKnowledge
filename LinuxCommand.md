@@ -2,6 +2,8 @@
 |---|---|
 |MZJ|3/8,2022|
 
+---
+
 |command|function|
 |---|---|
 | [command] --help| 命令帮助|  
